@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Umar! 
-- 👀 I’m interested in programming; specifically creating interesting things for problems I encounter. Although, sometimes I make completely random projects. 
+- 👀 I’m interested in programming; specifically creating interesting things for problems I encounter.
 - 🌱 Some of the languages I have experience in are (but not limited to): Python, C++, R, PostgreSQL, etc.
 - 💻 If you'd like to contact me: [click me](mailto:umarhunter@proton.me)
 
